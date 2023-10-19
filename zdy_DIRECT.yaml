@@ -1,0 +1,7 @@
+payload:
+  # 自定义分流规则。
+  # DIRECT
+
+
+  - DOMAIN-SUFFIX,xiaoya.pro
+  - DOMAIN-KEYWORD,gitlab
