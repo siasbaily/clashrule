@@ -1,0 +1,12 @@
+payload:
+  # 自定义分流规则。
+  # PROXY
+
+
+  - DOMAIN-KEYWORD,lutnnf
+  - DOMAIN-KEYWORD,dmgk 
+  - DOMAIN-SUFFIX,takeoffchat.com
+  - DOMAIN-KEYWORD,bulianglin
+  - DOMAIN-SUFFIX,openwrt.ai
+  - DOMAIN-SUFFIX,spotlistr.com
+  - DOMAIN-SUFFIX,yyrcd.com
