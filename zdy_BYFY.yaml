@@ -1,0 +1,16 @@
+payload:
+  # 自定义分流规则。
+  # BYFY
+
+  - DOMAIN-KEYWORD,fuli5
+  - DOMAIN-KEYWORD,kvtkqa
+  - DOMAIN-SUFFIX,ztabim.com
+  - DOMAIN-KEYWORD,bdy
+  - DOMAIN-SUFFIX,ysecaw.com
+  - DOMAIN-SUFFIX,tuckdng.cn
+  - DOMAIN-SUFFIX,ynsn.tech
+  - DOMAIN-KEYWORD,ltzdvb
+  - DOMAIN-KEYWORD,czwbc
+  - DOMAIN-SUFFIX,nmnm.fun
+  - DOMAIN-KEYWORD,workers
+  - DOMAIN-SUFFIX,tradingview.com
